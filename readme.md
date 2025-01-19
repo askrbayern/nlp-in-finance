@@ -1,4 +1,4 @@
-# NLP in Finance: Market Volatility Prediction from News Headlines
+# NLP in Finance: Predicting market open volatility based on after-market news
 
 ## Overview
 This repository contains the codes, models, and results of paper **Predicting market open volatility based on after-market news** for seminar NLP in Finance (University of Zurich 24HS). The project investigates how nuances in overnight news are digested by subsequent open market volatility.
