@@ -8,5 +8,5 @@ This repository contains the codes, models, and results of paper **Predicting ma
 2. **News-to-Volatility Mapping**: Uses a latent mapper to predict volatility representations from news headline embeddings
 
 ## Contact Information
-Fei Gao
+Fei
 fei dot gao at uzh dot ch
