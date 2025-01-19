@@ -9,4 +9,4 @@ This repository contains the codes, models, and results of paper **Predicting ma
 
 ## Contact Information
 Fei Gao
-fei dot gao at abbreviation for university of zurich dot country abbreviation for switzerland
+fei dot gao at uzh dot ch
