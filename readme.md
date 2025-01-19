@@ -1,4 +1,4 @@
-This is the code used for seminar: NLP in Finance at the University of Zurich, 24HS, lead by Prof. Dr. Martin Volk.
+This is the code used for seminar #NLP in Finance at the University of Zurich#, 24HS, lead by Prof. Dr. Martin Volk.
 
 The project investigates how news are processed in open market volatility.
 - It first compresses the open market volatility using VAE into meaningful latent representations
